@@ -1,0 +1,29 @@
+div.links{
+    display:block;
+    background-color: rgb(147, 15, 223);
+    font-family:fantasy;
+    color: rgb(147, 15, 223);
+    padding: 2%;
+    flex-direction: row;
+    align-content: left;
+}
+a{
+    background-color: rgb(223, 15, 161);
+    margin: 5% 5% 5% 0%;
+    padding: 1%;
+    border-radius: 5%;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(35, 13, 63);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    color: rgb(238, 113, 255);
+}
+strong{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    margin: 5% 0% 0% 0%;
+}
