@@ -1,25 +1,26 @@
 div.links{
     display:block;
-    background-color: rgb(147, 15, 223);
+    background-color: rgb(27, 27, 27);
     font-family:fantasy;
-    color: rgb(147, 15, 223);
+    color: rgb(255, 255, 255);
     padding: 2%;
     flex-direction: row;
     align-content: left;
 }
 a{
-    background-color: rgb(223, 15, 161);
+    background-color: rgba(255, 255, 255, 0.767);
     margin: 5% 5% 5% 0%;
     padding: 1%;
     border-radius: 5%;
+    color: rgb(64, 53, 78);
 }
 body{
     padding: 0%;
     margin: 0%;
-    background-color: rgb(35, 13, 63);
+    background-color: rgb(44, 44, 44);
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 150%;
-    color: rgb(238, 113, 255);
+    color: rgba(255, 255, 255, 0.719);
 }
 strong{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
